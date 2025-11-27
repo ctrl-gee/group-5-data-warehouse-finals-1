@@ -11,11 +11,11 @@ install dependencies first: (python -m pip install [dependency])
 - confluent-kafka
 
 TERMINAL 1:
-  cd backend
-  python -m pip install flask flask-cors
-  python app.py
-
+  \n cd backend
+  \n python -m pip install flask flask-cors
+  \n python app.py
+\n
 TERMINAL 2:
-  cd frontend
-  npm start
+ \n cd frontend
+ \n npm start
   
